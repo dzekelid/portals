@@ -33,7 +33,7 @@ apis:
   tags: Portal
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/portal/master/_listings/akamai/cases-v1-portal-user-case-caseid-files-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/portal/master/_listings/akamai/cases-v1-portal-user-case-caseid-request-close-put.md
 x-common:
 - type: x-base
   url: https://api.ccu.akamai.com
