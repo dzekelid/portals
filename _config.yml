@@ -1,10 +1,11 @@
-title: Streamdata Gallery Portal
-url: portal.streamdata.gallery
-tag: Portal
+title: Streamdata API Gallery - Portals
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
+url: portals.streamdata.gallery
+tag: Portals
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: portal
+github_repo: portals
 github_branch: master
 collections:
   listings:
