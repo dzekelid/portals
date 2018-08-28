@@ -1,22 +1,15 @@
 ---
 name: WSO2
-description: WSO2 is the lean enterprise middleware company. It delivers the only
-  complete open source enterprise SOA middleware stack purpose-built as an integrated
-  platform to support today???s heterogeneous enterprise environments internally and
-  in the cloud. WSO2???s service and support team is led by technical experts who
-  have proven success in deploying enterprise SOAs and contribute to the technology
-  standards that enable them.
-image: https://avatars.githubusercontent.com/u/533043?v=3
+x-slug: wso2
+description: The Time to Transform is Now  with WSO2s Open Technology for Agile Digital
+  Business.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/30-wso2.jpg
 x-kinRank: "9"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Portal
-- Management
-- API LIfeycle
-created: "2018-02-25"
-modified: "2018-02-25"
-url: https://raw.githubusercontent.com/streamdata-gallery/portal/master/_listings/wso2/apis.yaml
+x-alexaRank: "87136"
+tags: Portals
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/wso2/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -26,6 +19,10 @@ x-common:
   url: http://wso2.com/blogs/thesource/feed/
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/wso2
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/wso2
+- type: x-email
+  url: human-response@wso2.com
 - type: x-github
   url: https://github.com/wso2
 - type: x-twitter

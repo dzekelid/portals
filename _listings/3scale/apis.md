@@ -1,33 +1,34 @@
 ---
 name: 3scale
-description: 3scale provides Free  Enterprise API management solutions for developers,
-  and companies to securely distribute, control, manage, operate and monetize their
-  API to 3rd parties (e.g. developers, business partners, etc). 3scale API management
-  platform is Plug and Play, configurable, flexible and scalable and brings API providers
-  an unparalleled level of ownership, control and configuration to ensure QoS, SLA
-  and a great user experience.n
-image: https://avatars.githubusercontent.com/u/21415?v=3
+x-slug: 3scale
+description: 3scales API Management platform gives you the tools you need to take
+  control of your API. Trusted by more customers than any other vendor.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg
 x-kinRank: "10"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Portal
-- My API Stack
-- Management
-- Management
-- Imports
-created: "2018-02-25"
-modified: "2018-02-25"
-url: https://raw.githubusercontent.com/streamdata-gallery/portal/master/_listings/3scale/apis.yaml
+x-alexaRank: "333433"
+tags: Portals
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/3scale/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-api-gallery
+  url: http://3scale.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://3scale.stack.network
 - type: x-blog
   url: http://www.3scale.net/blog/
 - type: x-blog-rss
   url: http://www.3scale.net/feed/
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/3scale
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/3scale
+- type: x-email
+  url: sales@3scale.net
+- type: x-email
+  url: info@3scale.net
 - type: x-github
   url: https://github.com/3scale
 - type: x-pricing
@@ -43,7 +44,15 @@ x-common:
 - type: x-twitter
   url: https://twitter.com/3scale
 - type: x-website
+  url: http://3scale.net
+- type: x-website
+  url: http://
+- type: x-website
+  url: http://http
+- type: x-website
   url: http://www.3scale.net
+- type: x-website
+  url: ://
 include: []
 maintainers:
 - FN: Kin Lane

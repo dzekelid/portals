@@ -1,0 +1,223 @@
+{
+	"name": "Streadata.io API Gallery - Portals",
+	"description": "This is a repository of portals APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/portals.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://portals.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "3scale",
+			"x-api-slug": "3scale",
+			"description": "3scales API Management platform gives you the tools you need to take control of your API. Trusted by more customers than any other vendor.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/4-3scale.jpg",
+			"humanURL": "http://3scale.net",
+			"baseURL": "https://su1.3scale.net//",
+			"tags": "Portals",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/3scale/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Rogue Wave Software",
+			"x-api-slug": "rogue-wave-software",
+			"description": "We???re the largest independent provider of cross-platform software development tools and embedded components in the world. Come see how we can help.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20-akana.jpg",
+			"humanURL": "http://www.akana.com/",
+			"baseURL": "https:///",
+			"tags": "Portals",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/rogue-wave-software/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Socrata",
+			"x-api-slug": "socrata",
+			"description": "Join more than 1,000 government organizations using Socrata to put their data online, share insights, and make data-driven decisions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/24-socrata.jpg",
+			"humanURL": "http://socrata.com",
+			"baseURL": "https:///",
+			"tags": "Portals",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/socrata/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "WSO2",
+			"x-api-slug": "wso2",
+			"description": "The Time to Transform is Now  with WSO2s Open Technology for Agile Digital Business.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/30-wso2.jpg",
+			"humanURL": "http://wso2.com",
+			"baseURL": "https:///",
+			"tags": "Portals",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/wso2/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pagely",
+			"x-api-slug": "pagely",
+			"description": "Pagely is your Managed WordPress Hosting partner, delivering flexible, enterprise-grade hosting & support to help your business effectively scale WP.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1460-pagely.jpg",
+			"humanURL": "http://pagely.com/",
+			"baseURL": "https:///",
+			"tags": "Portals",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/pagely/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ReadMe.io",
+			"x-api-slug": "readme-io",
+			"description": "Create beautiful product and API documentation with our developer friendly platform.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11395-readme-io.jpg",
+			"humanURL": "https://readme.io/",
+			"baseURL": "https:///",
+			"tags": "Portals",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/readme-io/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Gelato.io",
+			"x-api-slug": "gelato-io",
+			"description": "A tool for creating and maintaining excellent Developer Portals and API or Technical Documentation",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18858-gelato-io.jpg",
+			"humanURL": "https://gelato.io/",
+			"baseURL": "https:///",
+			"tags": "Portals",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/gelato-io/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Github Pages",
+			"x-api-slug": "github-pages",
+			"description": "GitHub brings together the world???s largest community of developers to discover, share, and build better software. From open source projects to private team repositories, we???re your all-in-one platform for collaborative development.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18914-github-pages.jpg",
+			"humanURL": "https://pages.github.com/",
+			"baseURL": "https:///",
+			"tags": "Portals",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/github-pages/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pronovix",
+			"x-api-slug": "pronovix",
+			"description": "Pronovix is a software development company building and integrating complex web systems in Drupal. We operate internationally, with offices in Belgium and Hungary, working to become a valuable partner, rather than a simple supplier for our clients worl...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21079-pronovix-com.jpg",
+			"humanURL": "http://pronovix.com",
+			"baseURL": "https:///",
+			"tags": "Portals",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/pronovix/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "DevPortal Awards",
+			"x-api-slug": "devportal-awards",
+			"description": "DevPortal Awards brings together the API community to recognize, celebrate and learn from the world&rsquo;s greatest developer portals and their API documentation.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/deverloper-portal-awards.png",
+			"humanURL": "https://devportalawards.org",
+			"baseURL": "https:///",
+			"tags": "Portals",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/devportal-awards/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Portals",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Portals",
+	"include": [
+		{
+			"name": "3scale",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/3scale/apis.yaml"
+		},
+		{
+			"name": "Rogue Wave Software",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/rogue-wave-software/apis.yaml"
+		},
+		{
+			"name": "Socrata",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/socrata/apis.yaml"
+		},
+		{
+			"name": "WSO2",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/wso2/apis.yaml"
+		},
+		{
+			"name": "Pagely",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/pagely/apis.yaml"
+		},
+		{
+			"name": "ReadMe.io",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/readme-io/apis.yaml"
+		},
+		{
+			"name": "Gelato.io",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/gelato-io/apis.yaml"
+		},
+		{
+			"name": "Github Pages",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/github-pages/apis.yaml"
+		},
+		{
+			"name": "Pronovix",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/pronovix/apis.yaml"
+		},
+		{
+			"name": "DevPortal Awards",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/devportal-awards/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/portals/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}
